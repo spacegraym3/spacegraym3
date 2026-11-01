@@ -11,7 +11,7 @@ AWS, Cloud Services, SAAS, Full Stack Development, Microservices, Serverless Arc
 
 ## Interests
 
-Artifical Intelligence I believe is a once in a life time change to an industry (software engineering).  I am working on being well versed in all the technologies that make Artificial Intelligence a reality.
+I believe artifical intelligence is a once in a life time change to the software industry.  I am working on a master's degree with an emphasis in artificial intelligence. I want to be part of the artificial intelligence evolution moving forward.
 
 ## Currently
 
