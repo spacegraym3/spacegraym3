@@ -6,13 +6,12 @@ Click [here](./resume.pdf) to view or download my latest resume.
 
 ## Technologies
 
-AWS, Cloud Services/SAAS/Full Stack Development, Microservices, Serverless Architecture, JSON RestAPIs, GraphQL, Webhooks, Java,
-JavaScript/TypeScript, Node.js, Python, Android, iOS, React.js, ReactNative, SQL/NoSQL Databases, Agile Methodology, CI/CD
+AWS, Cloud Services, SAAS, Full Stack Development, Microservices, Serverless Architecture, RestAPIs, GraphQL, Java, JavaScript/TypeScript, Node.js, Python, Android, iOS, React.js, ReactNative, SQL/NoSQL Databases (MySQL | Postgres), Agile Methodology, CI/CD
 
 
 ## Currently
 
-I am working on getting a Masters degree in Computer Science with a focus on Artificial Intellegence
+I am working on anMasters degree in Computer Science with a focus on Artificial Intellegence
 
 
 <!--
