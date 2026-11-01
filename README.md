@@ -12,7 +12,7 @@ JavaScript/TypeScript, Node.js, Python, Android, iOS, React.js, ReactNative, SQL
 
 ## Currently
 
-I am working on getting a Master in Computer Science with a focus on Artificial Intellegence
+I am working on getting a Masters degree in Computer Science with a focus on Artificial Intellegence
 
 
 <!--
