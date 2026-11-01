@@ -4,6 +4,17 @@ I am an engineering leader with 15+ years of experience building and scaling hig
 
 Click [here](./resume.pdf) to view or download my latest resume.
 
+## Technologies
+
+AWS, Cloud Services/SAAS/Full Stack Development, Microservices, Serverless Architecture, JSON RestAPIs, GraphQL, Webhooks, Java,
+JavaScript/TypeScript, Node.js, Python, Android, iOS, React.js, ReactNative, SQL/NoSQL Databases, Agile Methodology, CI/CD
+
+
+## Currently
+
+I am working on getting a Master in Computer Science with a focus on Artificial Intellegence
+
+
 <!--
 **spacegraym3/spacegraym3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
