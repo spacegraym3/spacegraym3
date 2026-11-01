@@ -11,7 +11,7 @@ AWS, Cloud Services, SAAS, Full Stack Development, Microservices, Serverless Arc
 
 ## Currently
 
-I am working on anMasters degree in Computer Science with a focus on Artificial Intellegence
+I am working on a Masters degree in Computer Science with a focus on Artificial Intellegence
 
 
 <!--
