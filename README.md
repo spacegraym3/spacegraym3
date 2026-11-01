@@ -1,4 +1,4 @@
-## My name is Christopher White
+## About Me
 
 I am an engineering leader with 15+ years of experience building and scaling high-impact software products for millions of users at Amazon, Rivian, and Western Digital. Proven record of recruiting, coaching, and leading high-performing teams to deliver innovative web-based and API-driven solutions that increase productivity, reduce defects, and improve customer experience. Hands-on technical manager with deep expertise in distributed systems, cloud architecture, and modern front-end frameworks. Known for fostering inclusive, high-trust cultures and driving cross-functional collaboration to solve complex technical and business challenges at scale.
 
@@ -8,6 +8,9 @@ I am an engineering leader with 15+ years of experience building and scaling hig
 
 AWS, Cloud Services, SAAS, Full Stack Development, Microservices, Serverless Architecture, RestAPIs, GraphQL, Java, JavaScript/TypeScript, Node.js, Python, Android, iOS, React.js, ReactNative, SQL/NoSQL Databases (MySQL | Postgres), Agile Methodology, CI/CD
 
+## Interests
+
+Artifical Intelligence I believe is a once in a life time change to an industry (software engineering).  I am working on being well versed in all the technologies that make Artificial Intelligence a reality.
 
 ## Currently
 
