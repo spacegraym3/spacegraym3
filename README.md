@@ -1,4 +1,6 @@
-## My name is Christopher White 👋
+## My name is Christopher White
+
+I am an engineering leader with 15+ years of experience building and scaling high-impact software products for millions of users at Amazon, Rivian, and Western Digital. Proven record of recruiting, coaching, and leading high-performing teams to deliver innovative web-based and API-driven solutions that increase productivity, reduce defects, and improve customer experience. Hands-on technical manager with deep expertise in distributed systems, cloud architecture, and modern front-end frameworks. Known for fostering inclusive, high-trust cultures and driving cross-functional collaboration to solve complex technical and business challenges at scale.
 
 <!--
 **spacegraym3/spacegraym3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
