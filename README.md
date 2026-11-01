@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Christopher White 👋
 
 <!--
 **spacegraym3/spacegraym3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
