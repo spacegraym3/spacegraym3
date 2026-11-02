@@ -11,12 +11,13 @@ AWS, Cloud Services, SAAS, Full Stack Development, Microservices, Serverless Arc
 
 ## Interests
 
-I believe artifical intelligence is a once in a life time change to the software industry.  I am working on a master's degree with an emphasis in artificial intelligence. I want to be part of the artificial intelligence evolution moving forward.
+My primary interest lies at the forefront of the artificial intelligence evolution. I believe AI is a monumental sea change that is fundamentally redefining how we solve problems, with a profound and immediate impact on software development.
+
+AI is transforming engineering from writing line-by-line syntax to designing, guiding, and collaborating with intelligent systems. I am eager to build software in this new paradigm, where AI accelerates development and unlocks entirely new capabilities.
 
 ## Currently
 
-I am working on a Masters degree in Computer Science with a focus on Artificial Intellegence
-
+I am working on a Masters degree in Computer Science with a focus on Artificial IntellegenceI am working on a master's degree with an emphasis in artificial intelligence. I want to be part of the artificial intelligence evolution moving forward.
 
 <!--
 **spacegraym3/spacegraym3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
