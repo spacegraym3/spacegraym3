@@ -17,7 +17,7 @@ AI is transforming engineering from writing line-by-line syntax to designing, gu
 
 ## Currently
 
-I am working on a Masters degree in Computer Science with a focus on Artificial IntellegenceI am working on a master's degree with an emphasis in artificial intelligence. I want to be part of the artificial intelligence evolution moving forward.
+I am working on a Masters degree in Computer Science with a focus on Artificial Intellegence. I want to be part of the artificial intelligence evolution moving forward.
 
 <!--
 **spacegraym3/spacegraym3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
